@@ -1,0 +1,18 @@
+// node stuff
+node_modules
+npm-debug.log
+
+// generated content
+dist/
+
+// editors
+.vscode
+.vs
+.#*
+.idea
+
+// packages
+*.tgz
+
+// other
+.DS_Store
